@@ -12,7 +12,7 @@ Bem-vindo ao repositório oficial do meu portfólio profissional. Aqui você enc
 
 Este portfólio foi construído com foco em:
 - **Identidade Profissional:** Narrativa que une minha base em Front-end com meus estudos atuais em Back-end e Segurança.
-- **Transparência Acadêmica:** Seção dedicada às disciplinas do 2º período na PUC Minas (AEDS II, TI II, Arquitetura I).
+- **Transparência Acadêmica:** Seção dedicada às disciplinas do 2º período na PUC Minas (AEDS II, Arquitetura de Computadores I, Cálculo I, Engenharia de Software I e TI II Back-End).
 - **Experiência do Usuário:** Design dark mode inspirado em terminais/IDEs, responsivo e com animações sutis.
 
 ## 🛠️ Tecnologias Utilizadas
